@@ -1,4 +1,4 @@
-
+![build badge](https://github.com/m1ad3n/maven-kickstart/actions/workflows/maven.yml/badge.svg)
 # Maven Kickstart
 
 This is a basic setup for a Java application using Maven. It includes the necessary configuration for:
